@@ -326,8 +326,8 @@ ul.btn li:last-child {
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
      color: #fff;
-     font-size: 17px;
-     line-height: 20px;
+     font-size: 17px;    
+     line-height: 55px;
      font-weight: 500;
 }
 
