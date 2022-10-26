@@ -19,6 +19,9 @@
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 11px;
     }
+    .loader_bg {
+        background: rgb(255, 255, 255);
+    }
     .text-bg h1 {
         font-size: 56px;
         line-height: 66px;
@@ -42,6 +45,9 @@
 @media (min-width: 768px) and (max-width: 991px) {
     .navigation.navbar-dark .navbar-nav .nav-link {
         padding: 0px 9px;
+    }
+    .loader_bg {
+        background: rgb(255, 255, 255);
     }
     .banner_main {
         min-height: 705px;
@@ -173,7 +179,6 @@
     .header {
         padding: 0px 0px 0px 0px;
     }
-
     .logo {
         text-align: center !important;
         padding-bottom: 6px;
