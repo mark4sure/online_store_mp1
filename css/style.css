@@ -45,6 +45,10 @@ body {
      font-weight: normal;
 }
 
+.introWav {
+     animation-duration: 2s;
+}
+
 a {
      color: #1f1f1f;
      text-decoration: none !important;
@@ -253,6 +257,7 @@ button {
      height: 100%;
      width: 100%;
      position: absolute;
+     animation-delay: 0ms;
      left: 0;
      top: 0;
      display: flex;
@@ -363,7 +368,7 @@ ul.btn li:last-child {
 
 .header {
      width: 100%;
-     padding: 10px 10px;
+     padding: 0px 0px;
      background: transparent;
      position: absolute;
      z-index: 999;

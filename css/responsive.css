@@ -83,6 +83,9 @@
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
+    .loader_bg {
+        background: rgb(255, 255, 255);
+    }
     .text-bg h1 {
         font-size: 70px;
         line-height: 40px;
@@ -170,6 +173,7 @@
     .header {
         padding: 0px 0px 0px 0px;
     }
+
     .logo {
         text-align: center !important;
         padding-bottom: 6px;
